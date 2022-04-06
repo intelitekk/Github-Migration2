@@ -1,1 +1,4 @@
-# Github-Migration2
+# maven-project
+
+Simple Maven Project conflict
+
